@@ -39,10 +39,22 @@
                 <a class="nav-link" href="#">About Us</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Services</a>
+                <a class="nav-link" href="services.php">Services</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">Contact</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Register</a>
+            </li>      
+            <li class = "nav-item">
+                <a class="nav-link" href="login.php">Login</a>
+            </li>  
+            <li class="nav-item">
+                <a class="nav-link" href="#">Blog</a>
+            </li>  
+            <li class="nav-item">
+                <a class="nav-link" href="#">FAQ</a>
             </li>
     
     
